@@ -4,12 +4,12 @@ First contact with FastAPI framework.
 
 How to run:
 
-```python
+```[python]
 $: pip install -r requirements.txt
 $: uvicorn main:app --reload
 ```
 
 How to test:
-```python
+```[python]
 $: pytest tests.py
 ```
